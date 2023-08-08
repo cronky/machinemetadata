@@ -1,5 +1,5 @@
 # machinemetadata
-Collecting Metadata and metrics from an on premise machine for CCF. This output could be aggregated and imported into CCF.
+Collecting Metadata and metrics from an on premise machine for Cloud Carbon Footprint Tool. This output could be aggregated and imported into CCF.
 
 Example output (in addition to a CSV file output)
 
